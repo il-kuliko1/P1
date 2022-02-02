@@ -6,6 +6,7 @@ public class Helloworld {
          System.out.println("Govno vonyuchee!!!!!!!!!!!!!!!!");
          System.out.println("Govno vonyuchee!!!!!!!!!!!!!!!!");
          System.out.println("Govno vonyuchee!!!!!!!!!!!!!!!!");
+         System.out.println("Govno vonyuchee!!!!!!!!!!!!!!!!");
 
 
 
